@@ -6,7 +6,11 @@ export default function Header() {
    return (
       <header className="site-header">
          <div className="header-left">
-            <img className="logo" src="/logos/logo-white.png" alt="Site Logo" />
+            <img
+               className="logo"
+               src="../../images/logo-white.png"
+               alt="Site Logo"
+            />
             <h1>South Weber Country Fair Days</h1>
          </div>
          <HeaderNav />
