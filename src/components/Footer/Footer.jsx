@@ -8,7 +8,7 @@ export default function Footer() {
          <div className="footer-content">
             <div className="footer-logo">
                <img
-                  src="/logos/logo-white.png"
+                  src="src/images/logo-white.png"
                   alt="South Weber Country Fair Days Logo"
                />
                <p>© 2024 South Weber Country Fair Days</p>

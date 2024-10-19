@@ -8,7 +8,7 @@ export default function Header() {
          <div className="header-left">
             <img
                className="logo"
-               src="../../images/logo-white.png"
+               src="src/images/logo-white.png"
                alt="Site Logo"
             />
             <h1>South Weber Country Fair Days</h1>
