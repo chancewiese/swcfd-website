@@ -5,4 +5,9 @@ import react from "@vitejs/plugin-react";
 export default defineConfig({
    plugins: [react()],
    base: "/swcfd-website/",
+   resolve: {
+      alias: {
+         "@toolpad/core": "/path/to/toolpad/core",
+      },
+   },
 });
